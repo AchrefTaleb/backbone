@@ -1,0 +1,1 @@
+{"version":3,"file":"../sass/mobile.css","sources":["mobile.scss","statics.scss"],"sourcesContent":["@import './statics.scss';","$black : #000;"],"names":[],"mappings":""}

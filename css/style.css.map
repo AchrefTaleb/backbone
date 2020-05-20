@@ -1,0 +1,1 @@
+{"version":3,"file":"../sass/style.css","sources":["style.scss","statics.scss"],"sourcesContent":["@import './statics.scss';\r\n\r\n\r\n\r\n\r\n\r\n\r\n","$black : #000;"],"names":[],"mappings":""}
